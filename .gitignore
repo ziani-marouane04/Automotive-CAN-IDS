@@ -1,11 +1,11 @@
 
-# Environnement Python
+# Python virtual environments
 .venv/
 venv/
 __pycache__/
 *.py[cod]
 
-# Executables et fichiers compiles
+# Compiled files
 *.exe
 *.o
 *.obj
@@ -14,11 +14,11 @@ __pycache__/
 .vscode/
 .idea/
 
-# Fichiers temporaires et journaux
+# Temporary files and logs
 *.log
 *.tmp
 
-# Secrets et configuration locale
+# Local secrets and configuration
 .env
 .env.*
 !.env.example
