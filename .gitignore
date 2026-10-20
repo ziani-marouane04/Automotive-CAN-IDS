@@ -1,0 +1,24 @@
+
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Executables et fichiers compiles
+*.exe
+*.o
+*.obj
+
+# IDE
+.vscode/
+.idea/
+
+# Fichiers temporaires et journaux
+*.log
+*.tmp
+
+# Secrets et configuration locale
+.env
+.env.*
+!.env.example
