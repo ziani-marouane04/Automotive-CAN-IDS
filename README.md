@@ -1,5 +1,5 @@
 # Automotive CAN IDS
-
+![C++ Build Check](https://github.com/ziani-marouane04/Automotive-CAN-IDS/actions/workflows/cpp-build.yml/badge.svg)
 **An educational automotive cybersecurity project exploring CAN communication, ECU simulation, and intrusion detection using C++ and Python.**
 
 <p align="center">
